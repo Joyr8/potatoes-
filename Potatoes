@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Potato Power</title>
+</head>
+<body>
+	<header>
+		<h1>Potato Power</h1>
+		<nav>
+			<ul>
+				<li><a href="#history">History</a></li>
+				<li><a href="#varieties">Varieties</a></li>
+				<li><a href="#nutrition">Nutrition</a></li>
+				<li><a href="#recipes">Recipes</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="history">
+			<h2>History of Potatoes</h2>
+			<p>Potatoes are a staple food in many cultures and have been consumed for thousands of years. They originated in South America and were first domesticated in the Andes Mountains. From there, they were brought to Europe by Spanish conquistadors and quickly became popular all over the world.</p>
+		</section>
+		<section id="varieties">
+			<h2>Varieties of Potatoes</h2>
+			<p>There are many different varieties of potatoes, each with its own unique flavor, texture, and appearance. Some of the most popular varieties include russet, red, gold, and fingerling potatoes. Each variety is best suited to different dishes and cooking methods, so it's important to choose the right potato for your recipe.</p>
+		</section>
+		<section id="nutrition">
+			<h2>Nutrition of Potatoes</h2>
+			<p>Potatoes are a nutritious and filling food, providing essential vitamins and minerals. They are a good source of potassium, vitamin C, and fiber. Potatoes can also be prepared in a variety of healthy ways, such as baking, roasting, or boiling, so they can be a great addition to a balanced diet.</p>
+		</section>
+		<section id="recipes">
+			<h2>Potato Recipes</h2>
+			<p>There are countless ways to prepare potatoes, making them a versatile and delicious ingredient in any kitchen. Some popular potato recipes include mashed potatoes, baked potatoes, French fries, and roasted potatoes. Whether you're looking for a simple side dish or a hearty main course, potatoes are sure to be a crowd-pleaser!</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2022 Potato Power</p>
+	</footer>
+</body>
+</html>
